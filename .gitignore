@@ -1,0 +1,6 @@
+*.npz
+embeddings_out/
+notebooks/embeddings_out/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+data/*
